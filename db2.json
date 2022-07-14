@@ -1,0 +1,97 @@
+{
+  "companyaim": [
+    {
+      "id": 0,
+      "header": "Vision",
+      "description": "To build strongest customer parterships through consistent and reliable delivery and be the top revenue making BU within YASH."
+    },
+    {
+      "id": 1,
+      "header": "Mission",
+      "description": "Attract and retain outstanding people by creating a culture that fosters openness,innovation, promotes individual growth, rewards initiative and performance thereby delivery best in class services.  "
+    },
+    {
+      "id": 2,
+      "header": "BU Services",
+      "description": "J2EE,Mainframe,ECM,Strategy Services,BPM and Integration,Business Intelligence,Portal services,Productivity and QA Services."
+    },
+    {
+      "id": 3,
+      "header": "BU Details",
+      "description": "This Business Group is lead by...fondly called, has overall 20 plus years of experience in IT industry with the last 10 years in delivering large projects and managing independent revenue center for YASH."
+    }
+  ],
+
+  "customers": [
+    {
+      "id": 0,
+      "logocover": "https://www.logodesign.net/logo/line-art-house-with-leaves-5828ld.png"
+    },
+    {
+      "id": 1,
+      "logocover": "https://www.logodesign.net/logo/line-art-house-with-leaves-5828ld.png"
+    },
+
+    {
+      "id": 2,
+      "logocover": "https://www.logodesign.net/logo/line-art-house-with-leaves-5828ld.png"
+    },
+    {
+      "id": 3,
+      "logocover": "https://www.logodesign.net/logo/line-art-house-with-leaves-5828ld.png"
+    }
+  ],
+
+  "knowledge": [
+    {
+      "id": 0,
+      "header": "Client",
+      "description": "John Deere"
+    },
+    {
+      "id": 1,
+      "header": "About",
+      "description": "John Deere is the brand name of Deere and Company, an American corporation that manufactures agricultural machinery, heavy equipment, forestry machinery, diesel engines, drivetrains used in heavy equipment, and lawn care equipment."
+    },
+    {
+      "id": 2,
+      "header": "Technology",
+      "description": "JAVA"
+    },
+    {
+      "id": 3,
+      "header": "Skills",
+      "description": "J2EE,J2ME"
+    }
+  ],
+
+  "calenderdata": [
+    {
+      "id": 0,
+      "header": "You Portal",
+      "cdate": "03rd Jan'22 - 08th Jan'22"
+    },
+    {
+      "id": 1,
+      "header": "SoftPro SaaS based app",
+      "cdate": "03rd Jan'22 - 08th Jan'22"
+    }
+  ],
+  "attendancedata": [
+    {
+      "id": 0,
+      "updateddate": "03rd Jan'22 - 08th Jan'22",
+      "updation": "Submit"
+    },
+    {
+      "id": 1,
+      "updateddate": "27th Dec'22 - 31st Dec'22",
+      "updation": "Submitted"
+    },
+    {
+      "id": 2,
+      "updateddate": "20th Dec'22 - 24th Dec'22",
+      "updation": "Submitted"
+    }
+  ]
+}

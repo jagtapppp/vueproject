@@ -1,0 +1,114 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "names": "Infogram",
+      "description": "Time Sheet, Time Off, Courses, vSocialize, Profile",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSPP4AMdjwbTKoLOJyeM9fK9_fI__MlBY6WAfkC_L27qDj0Q1vTnGEVP8IxGl1sMuVpm8&usqp=CAU"
+
+    },
+    {
+      "id": 1,
+      "names": "iConnect",
+      "description": "Payslip,Tax declaration and more",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSPP4AMdjwbTKoLOJyeM9fK9_fI__MlBY6WAfkC_L27qDj0Q1vTnGEVP8IxGl1sMuVpm8&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "names": "IT Service Desk",
+      "description": "Raise ticket for Hardware/Software related issues",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSPP4AMdjwbTKoLOJyeM9fK9_fI__MlBY6WAfkC_L27qDj0Q1vTnGEVP8IxGl1sMuVpm8&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "names": "Smart IQ",
+      "description": "Time Sheet, Time Off, Courses, vSocialize, Profile",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSPP4AMdjwbTKoLOJyeM9fK9_fI__MlBY6WAfkC_L27qDj0Q1vTnGEVP8IxGl1sMuVpm8&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "names": "FPA",
+      "description": "Time Sheet, Time Off, Courses, vSocialize, Profile",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSPP4AMdjwbTKoLOJyeM9fK9_fI__MlBY6WAfkC_L27qDj0Q1vTnGEVP8IxGl1sMuVpm8&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "names": "VRIse",
+      "description": "Human resource information system",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSPP4AMdjwbTKoLOJyeM9fK9_fI__MlBY6WAfkC_L27qDj0Q1vTnGEVP8IxGl1sMuVpm8&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "names": "RMS",
+      "description": "Project Time Sheet, allotment and more",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSPP4AMdjwbTKoLOJyeM9fK9_fI__MlBY6WAfkC_L27qDj0Q1vTnGEVP8IxGl1sMuVpm8&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "names": "YASH Foundation",
+      "description": "Yash foundation recent activities and upcoming plans",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSPP4AMdjwbTKoLOJyeM9fK9_fI__MlBY6WAfkC_L27qDj0Q1vTnGEVP8IxGl1sMuVpm8&usqp=CAU"
+    }
+  ],
+
+  "todo": [
+    {
+      "id": 0,
+      "header": "Awards and Accolades",
+      "description": "YASH is again great place to work",
+      "name": "by Shilpi Gupta",
+      "updates": "5 days ago",
+      "views": "1 view"
+    },
+    {
+      "id": 1,
+      "header": "Inauguration",
+      "description": "Inauguration of EMPEIRIA development center",
+      "name": "by Shilpi Gupta",
+      "updates": "5 days ago",
+      "views": "1 view"
+    },
+    {
+      "id": 2,
+      "header": "Learning",
+      "description": "New courses added in your library",
+      "name": "by Shilpi Gupta",
+      "updates": "5 days ago",
+      "views": "1 view"
+    }
+  ],
+
+  "todo1": [
+    {
+      "id": 0,
+      "header": "Emergency",
+      "contact": "040-234-54322",
+      "immediatecontact": "Mr Fredyy",
+      "photos": "D:/VueJs/portal1/src/assets/groupsecurity.png"
+    },
+    {
+      "id": 1,
+      "header": "Group Security",
+      "contact": "123-456-789",
+      "email": "groupsecurity@dgcx.com",
+      "immediatecontact": "Mr Fredyy",
+      "photos": "../assets/emergency.png"
+    },
+    {
+      "id": 2,
+      "header": "Human Resource",
+      "contact": "123-456-7890",
+      "email": "hr@dgcx.com",
+      "immediatecontact": "Mr Fredyy",
+      "photos": "../assets/emergency.png"
+    },
+    {
+      "id": 1,
+      "header": "IT Desk",
+      "contact": "123-456-7890",
+      "email": "itsd@dgcx.com",
+      "immediatecontact": "Mr Fredyy",
+      "photos": "../assets/emergency.png"
+    }
+  ]
+}
