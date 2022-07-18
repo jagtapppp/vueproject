@@ -17,7 +17,7 @@
             <!----->
             <div class="row">
                 <div class="col-6">
-                    <img src="../assets/meeting.jpg" class="img-fluid officecard building1img" alt="...">
+                    <img src="../assets/meeting1.jpg" class="img-fluid officecard building1img" alt="...">
                 </div>
                 <div class="col-6">
                     <div class="row clientmessage">
