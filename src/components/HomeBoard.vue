@@ -1,5 +1,5 @@
 <template>
-<div class="container-fluid">
+<div class="container-fluid fluid1">
     <!-- <img src="../assets/officeimage.jpg" class="img-fluid img1" alt="..."> -->
     <div class="row">
         <div class="col-6 grid1 p-0">
@@ -35,15 +35,15 @@
 <!--infogram-->
 <div class="container-fluid">
     <div class="row">
-        <div class="float-left" style="width:65%">
+        <div class="float-left columnboard">
             <div class="col-sm-8 col1">
                 <!--row1 in first column-->
-                <div class="row" style="width:780px">
-                    <div class="col-sm-3 py-2 px-1" v-for="obj in todos" :key="obj.id">
-                        <div class="card" style="height:200px;">
+                <div class="row columnboard1">
+                    <div class="col-sm-3 py-0 px-2" v-for="obj in todos" :key="obj.id">
+                        <div class="card" style="height:195px; width:185px">
                             <div class="row">
                                 <div class=col-sm-4>
-                                    <img :src='obj.cover' class="card-img-top" style="width:80px">
+                                    <img :src='obj.cover' class="card-img-top">
                                 </div>
                                 <div class="col-sm-7">
                                     <p class="font-weight-light card-title title1">{{obj.names}}</p>
@@ -58,13 +58,13 @@
                 <!--row3 in first column-->
                 <div class="row">
                     <p class="p1" id="offer">Scratch here to check what you won today!</p>
-                    <img src="../assets/betterluck.png" class="img2" style="width:420px;">
+                    <img src="../assets/betterluck.png" class="img2" style="width:410px;">
                 </div>
             </div>
         </div>
         <!--for second column card-->
-        <div class="float-left" style="width:25%">
-            <div class="col-sm-4 colsecond px-4 pt-2">
+        <div class="float-left columnsecond">
+            <div class="col-sm-4 colsecond ">
                 <div class="card" style="width:22rem; height:57rem;" id="box1">
                     <p class="alert">Alerts And Notification Box</p>
                     <div class="card-body">
@@ -139,6 +139,10 @@ body {
     padding: 0;
 }
 
+.fluid1 {
+    margin-bottom: -9px;
+}
+
 .grid1 {
     padding-left: 29px;
     margin-right: -34px;
@@ -169,6 +173,7 @@ body {
     width: 312px;
     padding-bottom: 1px;
 }
+
 .img1 {
     margin-top: 20px;
     width: 93%;
@@ -208,16 +213,21 @@ body {
 }
 
 .col1 {
-    margin-left: 47px;
+    margin-left: 5px;
     float: left;
 }
 
 .colsecond {
     float: left;
+    margin-left: -17px;
+}
+.columnsecond{
+    width: 25%;
 }
 
 .card-img-top {
     padding: 15px 10px 12px 10px;
+    width:80px;
 }
 
 .title1 {
@@ -274,13 +284,14 @@ p.text3 {
 .p1 {
     padding-top: 20px;
     padding-bottom: 0px;
-    padding-right: 232px;
+    padding-right: 173px;
 
 }
 
 .img2 {
     width: 20%;
     padding-bottom: 1px;
+    margin-left: 32px;
 }
 
 /* notification box */
@@ -356,6 +367,7 @@ p.acco1 {
     text-align: left;
     margin-bottom: 10px;
 }
+
 .msg1 {
     text-align: left;
     font-size: 9px;
@@ -363,6 +375,7 @@ p.acco1 {
     padding-right: 100px !important;
     margin-bottom: 8px
 }
+
 .msg2 {
     text-align: left;
     font-size: 8px;
@@ -371,8 +384,16 @@ p.acco1 {
     padding-right: 100px !important;
     margin-top: -5px;
 }
+
 .pp1 {
     margin-right: 201px;
     font-size: 14px;
+}
+.columnboard{
+    width: 65%;
+    margin-top: -11px;
+}
+.columnboard1{
+    width:780px;
 }
 </style>

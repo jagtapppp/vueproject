@@ -7,7 +7,6 @@
 
 <script>
 import HeaderPage from './components/HeaderPage.vue'
-// import HomeBoard from './components/HomeBoard.vue'
 
 export default {
     name: 'App',

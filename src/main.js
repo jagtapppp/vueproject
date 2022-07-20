@@ -8,6 +8,10 @@ import 'bootstrap-vue/dist/bootstrap-vue.css'
 import HomeBoard from './components/HomeBoard.vue'
 import MyBoard from './components/MyBoard.vue'
 import ServicePage from './components/ServicePage.vue'
+import LifeAtYash from './components/LifeAtYash.vue'
+import OrganisationChart from './components/OrganisationChart.vue'
+
+
 
 // import { library } from '@fortawesome/fontawesome-svg-core';
 // import { fas } from '@fortawesome/free-solid-svg-icons';
@@ -22,7 +26,10 @@ const router = createRouter({
             {path:'/', component:HomeBoard,name:'home'},
             {path:'/home', component:HomeBoard},
             {path:'/board', component:MyBoard},
-            {path:'/service', component:ServicePage}
+            {path:'/lifeatyash', component:LifeAtYash},
+            {path:'/service', component:ServicePage},
+            {path:'/organisation', component:OrganisationChart}
+
         ]
 });
 

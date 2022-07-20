@@ -5,7 +5,6 @@
       "names": "Infogram",
       "description": "Time Sheet, Time Off, Courses, vSocialize, Profile",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSPP4AMdjwbTKoLOJyeM9fK9_fI__MlBY6WAfkC_L27qDj0Q1vTnGEVP8IxGl1sMuVpm8&usqp=CAU"
-
     },
     {
       "id": 1,
@@ -109,6 +108,167 @@
       "email": "itsd@dgcx.com",
       "immediatecontact": "Mr Fredyy",
       "photos": "../assets/emergency.png"
+    }
+  ],
+
+  "calender": [
+    {
+      "id": 0,
+      "date": "20 Feb '22",
+      "updates": "Quality Calender - Jan, 2022"
+    },
+    {
+      "id": 1,
+      "date": "21 Feb '22",
+      "updates": "YASH COVID TASK FORCE UPDATE | Recommendations & Guidlines To Visit Offices"
+    },
+    {
+      "id": 2,
+      "date": "22 Feb '22",
+      "updates": "Submission of Tax Saving Investment Proof For FY2021-22 on iConnect | Investment Cycle - II (Window Open)"
+    },
+    {
+      "id": 3,
+      "date": "23 Feb '22",
+      "updates": "Orientation On"
+    },
+    {
+      "id": 4,
+      "date": "24 Feb '22",
+      "updates": "Great Place to Work"
+    }
+  ],
+
+  "upcomingevents": [
+    {
+      "id": 0,
+      "date": "25 Feb '22",
+      "event": "ShivRatri Event"
+    },
+    {
+      "id": 1,
+      "date": "31 Dec '21",
+      "event": "Newyear Event"
+    },
+    {
+      "id": 2,
+      "date": "16 Nov '21",
+      "event": "Deepavali Celebration"
+    },
+    {
+      "id": 3,
+      "date": "06 Mar '21",
+      "event": "Cricket Tournament"
+    },
+    {
+      "id": 4,
+      "date": "06 Mar '21",
+      "event": "Birthday Decoration"
+    }
+  ],
+  
+  "thoughtleadership": [
+    {
+      "id": 0,
+      "cover": "https://cdn.kreezalid.com/kreezalid/files/2/pexels.jpg",
+      "label": "WhitePapers"
+    },
+    {
+      "id": 1,
+      "cover": "https://imagesuggest.com/wp-content/uploads/2021/06/pexels-erik-mclean-4062426.jpeg",
+      "label": "Blogs"
+    },
+    {
+      "id": 2,
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuaWIO05B6JX2-L4KWTD75Zx0BKmyWEhsnPx0JQXRlWZ7JE1Jk_MtZZi_xqw-vsd5VKtw&usqp=CAU",
+      "label": "Insigts"
+    }
+  ],
+  "decor": [
+    {
+      "id": 0,
+      "cover": "https://m.media-amazon.com/images/I/81hXFua+6RL._SL1500_.jpg",
+      "label": "Birthday Decorations"
+    },
+    {
+      "id": 1,
+      "cover": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a0799729-68f1-454c-883b-6d5028539726.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "label": "Celebrations"
+    },
+    {
+      "id": 2,
+      "cover": "https://img.freepik.com/free-psd/happy-birthday-invitation-card-instagram-social-media-post-template-with-mockup_125322-246.jpg?w=2000",
+      "label": "Events"
+    }
+  ],
+
+  "employees": [
+    {
+      "id": 0,
+      "dp": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzHQv_th9wq3ivQ1CVk7UZRxhbPq64oQrg5Q&usqp=CAU",
+      "name": "Joe Smith",
+      "designation": "UI Lead",
+      "businessgroup": "BG5-BU14"
+    },
+    {
+      "id": 1,
+      "dp": "https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg",
+      "name": "Joe Smith",
+      "designation": "UI Lead",
+      "businessgroup": "BG5-BU14"
+    },
+    {
+      "id": 2,
+      "dp": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyyWU4psTWZh7ybDuUZEdaNzPTRZvTKKunrC1f0xloP_qsxI_ZoMResP2p_7x9a168FUI&usqp=CAU",
+      "name": "Joe Smith",
+      "designation": "UI Lead",
+      "businessgroup": "BG5-BU14"
+    },
+    {
+      "id": 3,
+      "dp": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUqC7ozpN1ROPo_knnl-LzT48_p7QFOWM346nHCKSuYsAR6_ImZ3JASK--qL90TZlBoww&usqp=CAU",
+      "name": "Joe Smith",
+      "designation": "UI Lead",
+      "businessgroup": "BG5-BU14"
+    },
+    {
+      "id": 4,
+      "dp": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2HgGhgXhY-PZd7Ma14jhkdI6Xqc-yv7Ukzm9QDmKKGTJ851JObeSjTUCzcyGOmXm1reg&usqp=CAU",
+      "name": "Joe Smith",
+      "designation": "UI Lead",
+      "businessgroup": "BG5-BU14"
+    },
+    {
+      "id": 5,
+      "dp": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsmE0u2fDGK8uCTpik5cWZjKiK4hv7jH7JESAzQrUDv-NkFcMfxX7RwkYRYGKQ-LJfuhE&usqp=CAU",
+      "name": "Joe Smith",
+      "designation": "UI Lead",
+      "businessgroup": "BG5-BU14"
+    },
+    {
+      "id": 6,
+      "dp": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhRoh4jton0z813sdSy0rDeTA2sA51IHHz8cJwXWsBpPyImu7iHtW3-peej6n1sgbG_U&usqp=CAU",
+      "name": "Joe Smith",
+      "designation": "UI Lead",
+      "businessgroup": "BG5-BU14"
+    }
+  ],
+
+  "rnr": [
+    {
+      "id": 1,
+      "smld": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhRoh4jton0z813sdSy0rDeTA2sA51IHHz8cJwXWsBpPyImu7iHtW3-peej6n1sgbG_U&usqp=CAU",
+      "names": "Jane"
+    },
+    {
+      "id": 1,
+      "smld": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhRoh4jton0z813sdSy0rDeTA2sA51IHHz8cJwXWsBpPyImu7iHtW3-peej6n1sgbG_U&usqp=CAU",
+      "names": "James"
+    },
+    {
+      "id": 1,
+      "smld": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhRoh4jton0z813sdSy0rDeTA2sA51IHHz8cJwXWsBpPyImu7iHtW3-peej6n1sgbG_U&usqp=CAU",
+      "names": "Amelia"
     }
   ]
 }

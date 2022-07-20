@@ -8,31 +8,21 @@
     <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container-fluid">
             <a class="navbar-brand logo" id="logo2" href="#">YOU!</a>
-                <!-- <div class="collapse navbar-collapse" id="navbarNavAltMarkup"> -->
-                    <div class="collapse navbar-collapse justify-content-center">
-                    <div class="navbar-nav">
-                    <router-link to="/home">Home</router-link>&nbsp;&nbsp;
-                    <router-link to="/service">Services</router-link>&nbsp;&nbsp;
-                    <router-link to="/board">My Board</router-link>&nbsp;&nbsp;
-                    <a class="nav-link disabled">Life at Yash</a>
-                    <a class="nav-link text disabled">Documents</a>
-                    <a class="nav-link disabled">CEO's Desk</a>
+            <!-- <div class="collapse navbar-collapse" id="navbarNavAltMarkup"> -->
+            <div class="collapse navbar-collapse justify-content-center">
+                <div class="navbar-nav">
+                    <router-link to="/home" class="speciallink px-2 pt-1">Home</router-link>
+                    <router-link to="/service" class="speciallink px-2 pt-1">Services</router-link>
+                    <router-link to="/board" class="speciallink px-2 pt-1">My Board</router-link>
+                    <router-link to="/lifeatyash" class="speciallink px-2 pt-1">LifeatYash</router-link>
+                    <router-link to="/documents" class="speciallink px-2 pt-1">Documents</router-link>
+                    <router-link to="/ceodesk" class="speciallink px-2 pt-1">CEO's Desk</router-link>
+                    <router-link to="/organisation" class="speciallink px-2 pt-1">Organisation</router-link>
+
                 </div>
             </div>
         </div>
     </nav>
-    <!-- <nav class="navbar justify-content-center">
-        <a class="navbar-brand logo logo1">You!</a>
-        <router-link to="/home">Home</router-link>
-        <a class="nav-link disabled" href="#">Services</a>
-
-        <router-link to="/board">My Board</router-link>
-
-        <a class="nav-link disabled" href="#">My Board</a>
-        <a class="nav-link disabled">Life at Yash</a>
-        <a class="nav-link text disabled">Documents</a>
-        <a class="nav-link disabled">CEO's Desk</a>
-    </nav> -->
 </div>
 </template>
 
@@ -43,11 +33,18 @@ export default {
 </script>
 
 <style>
-#brand1{
-    color:white;
+.speciallink {
+    text-decoration: none;
+    font-size: 12px;
+    color: rgb(24, 25, 25);
+}
+
+#brand1 {
+    color: white;
     font-size: 10px;
     justify-content: center;
 }
+
 .navbar1 {
     background-color: black;
     height: 35px;
@@ -70,10 +67,12 @@ export default {
 .logo {
     font-weight: bold;
 }
-#logo2{
+
+#logo2 {
     color: rgb(204, 46, 46);
 
 }
+
 .logo1 {
     margin: 0;
     padding: 0;
